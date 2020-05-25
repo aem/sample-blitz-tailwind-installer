@@ -13,8 +13,8 @@ enum Steps {
 
 export default new Installer(
   {
-    packageName: "tailwindcss",
-    packageDescription: "This installer adds tailwindcss and necessary setup code to your application.",
+    packageName: "tailwind",
+    packageDescription: "This recipe adds Tailwind CSS and necessary setup code to your application.",
     packageRepoLink: "https://github.com/blitz-js/installers",
     packageOwner: "adam@markon.codes",
   },
