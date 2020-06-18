@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@blitzjs/installer": "0.11.0"
+    "@blitzjs/installer": "0.15.1"
   }
 }
